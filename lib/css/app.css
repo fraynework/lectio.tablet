@@ -765,7 +765,7 @@ section,
 		
 		/* img */
 		#pgWeeks [data-role="articleContent"] img.h1 { 
-			display:block; width:370px; height:285px; margin:45px 0 0 -110px; }
+			display:block; width:370px; height:285px; margin:65px 0 0 -50px; }
 		
 		/* articleNav */		
 		#pgWeeks [data-role="articleContent"] .articleNav,
