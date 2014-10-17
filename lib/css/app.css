@@ -139,7 +139,7 @@ body {
 	.pageHeader .headerTitle {
 		display:block; width:auto; height:auto; margin:0 180px 0 120px; padding:0; overflow:hidden;
 		color:#6e2f8b; white-space:nowrap; text-overflow:ellipsis; text-transform:uppercase;
-		font-family:'LeagueGothic',sans-serif; font-size:52px; font-weight:400; line-height:165px; }
+		font-family:'LeagueGothic',sans-serif; font-size:52px; font-weight:400; line-height:54px; }
 
 
 /* ==========================================================================
