@@ -216,7 +216,7 @@ body {
 /* container */
 .pageContent {
 	position:absolute; top:0; left:0; bottom:0; width:100%; height:auto; margin:0; padding:0; overflow:hidden; }
-.pageHeader + .pageContent 	{ top:165px; }
+.pageHeader + .pageContent 	{ top:265px; }
 
 	/* -------------------------------------------------------------------------- */
 	/* scroller */
