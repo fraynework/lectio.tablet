@@ -48,12 +48,11 @@
 	<preference name="android-minSdkVersion"		value="14" />
 	
 	<!-- Icon: iOS -->
-	<!--
 	<icon src="res/icon/ios/icon-57.png"			gap:platform="ios"			width="57" height="57" />
     <icon src="res/icon/ios/icon-57-2x.png"			gap:platform="ios"			width="114" height="114" />
-	-->
     <icon src="res/icon/ios/icon-72.png"			gap:platform="ios"			width="72" height="72" />
 	<icon src="res/icon/ios/icon-72-2x.png"			gap:platform="ios"			width="144" height="144" />
+	<icon src="res/icon/ios/icon-120.png"			gap:platform="ios"			width="120" height="120" />
 	
 	<!-- Icon: Android -->
     <icon src="res/icon/android/icon-ldpi.png"		gap:platform="android"		gap:density="ldpi" />
